@@ -1,0 +1,28 @@
+C:\Users\Goran\Desktop\Homework.Class02\ApiApp\bin\Debug\netcoreapp2.1\ApiApp.deps.json
+C:\Users\Goran\Desktop\Homework.Class02\ApiApp\bin\Debug\netcoreapp2.1\ApiApp.runtimeconfig.json
+C:\Users\Goran\Desktop\Homework.Class02\ApiApp\bin\Debug\netcoreapp2.1\ApiApp.runtimeconfig.dev.json
+C:\Users\Goran\Desktop\Homework.Class02\ApiApp\bin\Debug\netcoreapp2.1\ApiApp.dll
+C:\Users\Goran\Desktop\Homework.Class02\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.csprojAssemblyReference.cache
+C:\Users\Goran\Desktop\Homework.Class02\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.csproj.CoreCompileInputs.cache
+C:\Users\Goran\Desktop\Homework.Class02\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.RazorAssemblyInfo.cache
+C:\Users\Goran\Desktop\Homework.Class02\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.RazorAssemblyInfo.cs
+C:\Users\Goran\Desktop\Homework.Class02\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.AssemblyInfoInputs.cache
+C:\Users\Goran\Desktop\Homework.Class02\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.AssemblyInfo.cs
+C:\Users\Goran\Desktop\Homework.Class02\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.RazorTargetAssemblyInfo.cache
+C:\Users\Goran\Desktop\Homework.Class02\ApiApp\bin\Debug\netcoreapp2.1\ApiApp.pdb
+C:\Users\Goran\Desktop\Homework.Class02\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.dll
+C:\Users\Goran\Desktop\Homework.Class02\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.pdb
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\ASP.NET-WEB-API\Homework.Class02\ApiApp\bin\Debug\netcoreapp2.1\ApiApp.deps.json
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\ASP.NET-WEB-API\Homework.Class02\ApiApp\bin\Debug\netcoreapp2.1\ApiApp.runtimeconfig.json
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\ASP.NET-WEB-API\Homework.Class02\ApiApp\bin\Debug\netcoreapp2.1\ApiApp.runtimeconfig.dev.json
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\ASP.NET-WEB-API\Homework.Class02\ApiApp\bin\Debug\netcoreapp2.1\ApiApp.dll
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\ASP.NET-WEB-API\Homework.Class02\ApiApp\bin\Debug\netcoreapp2.1\ApiApp.pdb
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\ASP.NET-WEB-API\Homework.Class02\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.csprojAssemblyReference.cache
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\ASP.NET-WEB-API\Homework.Class02\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.csproj.CoreCompileInputs.cache
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\ASP.NET-WEB-API\Homework.Class02\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.RazorAssemblyInfo.cache
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\ASP.NET-WEB-API\Homework.Class02\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.RazorAssemblyInfo.cs
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\ASP.NET-WEB-API\Homework.Class02\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.AssemblyInfoInputs.cache
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\ASP.NET-WEB-API\Homework.Class02\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.AssemblyInfo.cs
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\ASP.NET-WEB-API\Homework.Class02\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.RazorTargetAssemblyInfo.cache
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\ASP.NET-WEB-API\Homework.Class02\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.dll
+C:\Users\Goran\Desktop\SEDC ACADEMY\GitHub\ASP.NET-WEB-API\Homework.Class02\ApiApp\obj\Debug\netcoreapp2.1\ApiApp.pdb
